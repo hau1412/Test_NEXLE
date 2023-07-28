@@ -1,0 +1,1 @@
+export const ADD_TO_LIST_CHOOSE = 'ADD_TO_LIST_CHOOSE';
